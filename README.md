@@ -1,2 +1,2 @@
 # CSS-YouTube-logo
-YouT
+YouTube logo using CSS only.
